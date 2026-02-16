@@ -3,18 +3,6 @@
 Reproduction and enhancement of the Pan-Tompkins QRS detection algorithm for ECG signals, with LMS-based adaptive thresholding and full DSP analysis (frequency response, pole-zero, group delay).
 
 
-## Authors
-
-| Name              | 
-|-------------------|
-| Raseel Jafar      | 
-| Basmala Abu Hakema| 
-| Layal Hajji       | 
-
-**Institution:** Birzeit University, Department of Electrical and Computer Engineering
-
----
-
 ## Overview
 
 This project reproduces the classic **Pan-Tompkins algorithm** (1985) for real-time QRS complex detection in ECG signals and extends it with an **LMS-based adaptive thresholding** stage to improve robustness in noisy conditions.
