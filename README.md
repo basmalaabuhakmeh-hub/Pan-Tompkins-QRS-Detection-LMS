@@ -103,8 +103,4 @@ To use only the detector in your own code: instantiate `PanTompkinsQRS(fs=360)`,
 Detailed methodology, literature review, DSP analysis, LMS design, and evaluation (including sensitivity/PPV/F1 under clean, moderate, and high noise) are in:  
 **`1220724_1220871_1220184.pdf`**
 
----
 
-## License
-
-Academic project — Birzeit University, Department of Electrical and Computer Engineering.
